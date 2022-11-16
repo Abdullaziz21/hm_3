@@ -21,7 +21,6 @@ public class Main {
         sort(sorted);
         System.out.println(Arrays.toString(sorted));
     }
-
     public static void sort(int[] sortmosiv){
         for (int i = 0; i < sortmosiv.length; i++) {
             int index = i;
